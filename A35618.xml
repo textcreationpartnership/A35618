@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The exaltation of Christmas pye as it was delivered in a preachment at Ely house / by P.C. Dr. of divinity and midwifery.</title>
+            <author>P. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35618</idno>
+            <idno type="STC">Wing C93</idno>
+            <idno type="STC">ESTC R33298</idno>
+            <idno type="EEBO-CITATION">13131583</idno>
+            <idno type="OCLC">ocm 13131583</idno>
+            <idno type="VID">97863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97863)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1546:6, 2028:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The exaltation of Christmas pye as it was delivered in a preachment at Ely house / by P.C. Dr. of divinity and midwifery.</title>
+                  <author>P. C.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Item at 1546:6 identified as Wing C93. Entry cancelled in Wing (2nd ed.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christmas --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97863:1" rendition="simple:additions"/>
+            <p>THE EXALTATION OF CHRISTMAS PYE As it was Delivered IN A PREACHMENT At <hi>ELY</hi> Houſe.</p>
+            <p>By P. C. Dr. of Divinity and Midwifery.</p>
+            <p>Printed in the Yeare, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97863:2"/>
+            <pb n="3" facs="tcp:97863:2" rendition="simple:additions"/>
+            <head>
+               <hi>Brewerton,</hi> Chap. CXIX. Ver. XXXI.</head>
+            <head type="sub">And they did eat their Plum-pies, and rejoyced ex<g ref="char:EOLhyphen"/>ceedingly.</head>
+            <opener>
+               <salute>Beloved,</salute>
+            </opener>
+            <p>THis Text wich I have named unto you, is ſuch a Text, that if it be well ſqueezed, it will afford abundance of matter. Truly beloved, it makes my teeth water to think on't; You ſhall hear it over again, <hi>And they did eat their Plum-pies, and re<g ref="char:EOLhyphen"/>joyced exceedingly.</hi> Now you muſt conſider, that theſe words have a coherence with ſomething that went before: For they do plainly imply that the perſons of whom the Text ſpeaks were invited by ſome or other of their brethren to dinner. And now being invited to dinner, and being ſet down at the table and having alſo teugh'd the Roſt Beef, then I ſay, <hi>they did eat their Plum-pies and rejoyced exceedingly.</hi> Thus you ſee how that <hi>And</hi> is in this place a <hi>Conjuncti<g ref="char:EOLhyphen"/>on Copulative, Lyming</hi> words and ſentences together. And now we talk of a <hi>Conjunction Copulative,</hi> give me leave my beloved to ſtep a little aſide from my text, for theſe words have more Marrow in them then you are aware of. To tell you the truth there are ſeveral ſorts of <hi>Conjunctions Copulative,</hi> there be your Aſtrological <hi>Conjunctions Copulative,</hi> as when the Engliſh <hi>Merlin</hi> lay with Miſtriſs F—. For a <hi>Con<g ref="char:EOLhyphen"/>junction Copulative,</hi> is a <hi>carnal cloſing</hi> together
+<pb n="4" facs="tcp:97863:3"/>of Male and Female, to the ſatisfaction of their wanton deſires; Now this is a thing much uſ d among <hi>Profeſſors;</hi> who are exceedingly offend<g ref="char:EOLhyphen"/>ed that increaſe and multiply, was not made one of the ten <hi>Commandements.</hi> Then there is your <hi>praeter natural Conjunction Copulative,</hi> as when an <hi>Elders maid</hi> lyes with a <hi>Maſtiff</hi> or as when a <hi>Quaker</hi> buggereth a <hi>Mare.</hi> I will not poſitively determine whether it were lawful to do it or no: Yet this I will ſay in the defence of our brother; that truly man hath a very great liberty as being Lord of the Earth and of every creature that is therein. There is alſo your <hi>unlawful Conjunction copulative,</hi> and that is, when a Man lies with <hi>another Mans</hi> Wife. And laſtly there is your <hi>lawful conjunction copulative,</hi> and that is when a Man lies with none but his own Wife: but when that will come to paſs we know not for it is now a<g ref="char:EOLhyphen"/>days out of faſhion. Now theſe Copulative Con<g ref="char:EOLhyphen"/>junctions do produce Monſtrous Children, &amp; <hi>Cuck<g ref="char:EOLhyphen"/>olds.</hi> But <hi>to a Ball,</hi> whether am I going: Truely I had almoſt forgotten my text, but my beloved 'tis the ſame thing; for ſo a man keep talking, you know, 'tis no great matter what he talks of; however ſince we have a beaten road, we will keep it if we can, let's ſee then what is next. <hi>And they.</hi> Now here ariſeth a nother doubt, to puzzle a Prophet, yea even <hi>Daniel</hi> himſelf. For how can any body tell, who theſe <hi>They</hi> are, unleſſe they behold. For my part I can't divine who theſe <hi>They,</hi> ſhould be for my life. I do believe they were men; and men that did not uſe to eat Plum pies; for the text ſays, that when they had Eaten them, <hi>they rejoyced exceed<g ref="char:EOLhyphen"/>ingly.</hi> Our brother <hi>James Naylor</hi> in his learned com<g ref="char:EOLhyphen"/>ment
+<pb n="5" facs="tcp:97863:3" rendition="simple:additions"/>upon <hi>Reynard the Fox,</hi> ſaith that theſe <hi>They</hi> are Women. But <hi>Cardan</hi> in his book of <hi>Subtleties</hi> utter<g ref="char:EOLhyphen"/>ly denys it. But you'l ſay, what reaſon do they give? Nay, they neither of them give any reaſon for what they ſay, onely they tell us flat and plain<g ref="char:EOLhyphen"/>ly, like our brother <hi>Hinderſon,</hi> that it is ſo: now one of theſe two muſt lye; but which of them, I pro<g ref="char:EOLhyphen"/>feſſe I can't conceive. Truly my beloved I am in a wood: I wiſh ſome perſon of judgement and in<g ref="char:EOLhyphen"/>duſtrie that has nothing elſe to doe, would endea<g ref="char:EOLhyphen"/>vour to ſatisfy us in this difficult queſtion; for, for my part, <hi>I</hi> think tis of as great concernment, as many things that were handled at the <hi>Councell</hi> of <hi>Trent.</hi> Now let's go on, <hi>And they did.</hi> He does not ſay, they did not, but they <hi>did.</hi> I, but what did they do? Why? they <hi>did</hi> that which no body could do for them: what was that you'l ſay? why then in plain Engliſh they did <hi>Eat. Marcus Tullius Cicero</hi> is of an opinion they did <hi>Drink</hi> too, as you may read in his <hi>Tuſculan Queſtions.</hi> But <hi>Harry the eight</hi> writing againſt <hi>Luther</hi> taks an occaſion to quarrel with <hi>Cicero</hi> and to deny it. For, ſaith he, it is not uſual to drink after ſweet things: becauſe that ſweet things never reliſh drink: neither is it probable they were ſuch fooles to put the ſweet taſt of their good Plum pye out of their mouths by drinking. Truely my belo<g ref="char:EOLhyphen"/>ved, had he not bin a KING, I ſhould have agreed with him: but being that he was a KING, yea an Idolatrous KING, I am reſolved to contradict him: and therefore I do hereby openly declare be<g ref="char:EOLhyphen"/>fore ye all, my beloved, that they did drink. But you'l object and ſay, how came I to know, I was not in their company: 'tis no matter for that, I will
+<pb n="6" facs="tcp:97863:4"/>have it ſo, &amp; if you will not have it ſo too, Ile be your Paſtor no longer. But what did they eat all this while? why mark the words, <hi>And they did eat plum-pye.</hi> O ho! did they ſo? notable cunning rogues, they knew what was good for themſelves I warrant ye. Here now we are to conſider what ſort of Plum-pye this was, and how many ſorts of plum pyes there are. For you muſt know, my beloved, that there are more then one ſort of plum pyes in the world: I my ſelf have ſeen plums put into an <hi>apple pye,</hi> and it hath taſted exceeding ſavoury. There is you <hi>neats foot pye,</hi> there is your <hi>calves chaldron pye,</hi> there is your <hi>Lamb pye,</hi> there is your <hi>veal pye,</hi> and all theſe pyes have plums in um; but there is your <hi>Chriſtmas pye</hi> and that hath plums in abundance, that is your <hi>Metropolitan</hi> plum pye, tis the <hi>cream</hi> of all plum pyes, and in brief there is no plum pye like it. Truly my beloved, I wonder at the little wit of our brethren, that perſecuted theſe pyes ſo furiouſly in their pul<g ref="char:EOLhyphen"/>pits: for can they undergo a worſe perſecution then to be eaten? take away Chriſtmas I ſay, if you take away our pyes, eſpecially our plum pies. Truly my beloved, I wonder who invented theſe pyes, who ever twas, Gods bleſſing on his heart; ſurely twas a man for certainly a woman could never have ſo much wit. They talk of the invention of <hi>Guns and Printing;</hi> but doubtleſs the invention of plum pye doth far exceed it. He that diſcovered the new Star in <hi>Caſſiopea</hi> the other day, deſerves not half ſo much to be remembred, as he that firſt married min<g ref="char:EOLhyphen"/>ced meat and Raiſins together. Mark but the in<g ref="char:EOLhyphen"/>gredients.
+<pb n="7" facs="tcp:97863:4"/>There is firſt your Neats tongue boyld; Now you know a Neats tongue boyld alone with turneps how good it is; but being mixd with plums and ſpice, ther's your precious creature-comfort my beloved. The <hi>Ephod</hi> was beſet with precious ſtones, and every one of them had their ſignification, and minced pyes are beſet with plums and ſpice; and they have alſo their vertues and their <hi>Hieroglyphical</hi> ſignifications. Your Neats tongue is the <hi>Hieroglyphic</hi> of paſtoral authority. And therefore the Pope, who calls himſelf <hi>Chriſts Vicar</hi> hath got a cap, which is called a <hi>Miter,</hi> and this cap is made in the ſhape of two tongues. Your Currants are purgers of the blood and purifie the ſeat of Anger which is the <hi>ſpleen;</hi> therefore do they cauſe mirth in men, and revive the ſpirits of times. Your raiſins being mixt with wormſeed preſerve a man in the <hi>d</hi> grave, and deſtroy thoſe crawling enemies of mankind,<note place="margin">A New way of embalming.</note> that would continually diet upon his fleſh. Now as concerning the original of theſe pyes, we are in a very great quandary what to ſay. For our brother <hi>Starkie</hi> a man excellently learned in Chronology, at<g ref="char:EOLhyphen"/>tributes the invention thereof to St. <hi>George,</hi> one of the ſeven Champions, who travelling with the King of <hi>Egypts</hi> daughter, was mightily call'd upon by his ſtomack for victuals, for that the Kings daughter and he, had had nothing to feed on but his greaſie ſocks for three days together: but at length mee<g ref="char:EOLhyphen"/>ting with a gyant he chopt him to pieces with his ſword, and put plums to his fleſh, leſt it ſhould of<g ref="char:EOLhyphen"/>fend the ſqueamiſh ſtomack of his <hi>Miſtris.</hi> But <hi>Kitchin</hi>
+               <pb n="6" facs="tcp:97863:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:97863:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:97863:6"/>an ancient Engliſh author and of good authority, tells us a ſtory how that the <hi>Goths and Vandals</hi> com<g ref="char:EOLhyphen"/>ing into <hi>Italy,</hi> and being angry at the <hi>Romans,</hi> did threaten to cut them as ſmall as herbs to the pot; now it ſo fell out, that having ſlain a very great number of them, they were (as every honeſt man ought to be) as good as their words; then ſearching further they found a great quantity of plums which the <hi>Romans</hi> had brought along with them to put in their puddings, for as you may read in <hi>Lipſius,</hi> the <hi>Romans</hi> never went without ſtore of meal; then ſaid the <hi>Vandals</hi> one to another, (they made a very fair ſpeech,) <hi>let us be merry, and let us put theſe plums to our minc'd meat, and eat up the carcaſſes of our enemies;</hi> with that the <hi>Vandals</hi> ſhouted ſo loud that they ſhook the very <hi>Alps</hi> themſelves. Others relate and among the reſt Dr. <hi>Harmar</hi> in his treatiſe of the <hi>ex<g ref="char:EOLhyphen"/>cellency of muſtard,</hi> how that the daughter of <hi>Aſtra<g ref="char:EOLhyphen"/>gon,</hi> ſhe was the ſiſter of <hi>Gondibert,</hi> did by chance being a liquoriſh dame, and not knowing what to doe with ſome cold meat that was left at ſupper, mince the ſame meat and put plums thereto, ſhe alſo mixed ſome herbs with her meat, which was well approved of; ſo that having taſted the ſweets thereof, ſhe commended it to her father and it be<g ref="char:EOLhyphen"/>came the faſhion to eat <hi>plum pyes,</hi> and hath been uſed in the Court of Princes ever ſince, ſo that there was hardly any time of the year but you might have had theſe <hi>Lombardy pyes</hi> at <hi>White-hall.</hi> But Col. <hi>Pride</hi> a Saint of the <hi>Greek Church</hi> writes in his <hi>Comment</hi> upon <hi>Tom Co<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iats Travels,</hi> how that St. <hi>James</hi> of <hi>Com<g ref="char:EOLhyphen"/>poſtella</hi>
+               <pb n="9" facs="tcp:97863:6"/>a Spaniſh Saint, being in the Wilderneſs of <hi>Arabia,</hi> was overtaken with <hi>hunger.</hi> Now ſeeing that in that place he could have no aſſiſtance from Earth, he fell to his prayers; now as he was at prayers, gaping and winking, as our brother <hi>Caſe</hi> uſes to doe, it ſo fell out that a mince pye dropt from the skie into his mouth, even as <hi>Ancilia</hi> or ſheilds of <hi>Mars</hi> dropt from heav'n into the <hi>Capitol.</hi> He could pray no longer becauſe his mouth was ſtop'd: therefore he Eat what Heaven had ſent him. Now you muſt con<g ref="char:EOLhyphen"/>ſider that this miracle was ſoon divulged abroad; ſo that this ſort of Pye became to be in a kind of ſacred and reverent eſteem among the people. And this was the reaſon of our fore-fathers, out of their great wiſdome and piety did ſet this Pye aſide among all the wonderful variety of Pyes for the celebration of that ſolemn Feaſt called Chri<g ref="char:EOLhyphen"/>ſtmas.</p>
+            <p>Now you'l ſay how are theſe Pyes to be eaten? why they are to be eaten <hi>hot,</hi> or to be Eaten <hi>cold;</hi> Now if you eate them hot, you muſt take a great care leaſt you burn your Chaps. But if you Eat them cold, there is no great danger of that, and you eat them more ſecurely and with leſs trouble. And therefore my advice my beloved to you is, that you eat them cold. For I have heard of a Bridegroom that was kill'd before he could lye with his Bride, for adventuring to ſhovel hot minc'd Pye down his throat for a wager. Truely, my beloved, <hi>Sweet meat muſt have ſowr Sawce.</hi> Dr. <hi>Harmar,</hi> who, much good may it do him good man, did eat up a whole Rump of Beef for the
+<pb n="10" facs="tcp:97863:7"/>love of the muſtard, and would have eat up the Parliament for its name ſake, had <hi>Fleetwood</hi> em<g ref="char:EOLhyphen"/>ployd him and given him Muſtard enough; I ſay this Dr. <hi>Harmar</hi> ſaith, that a man ought not to make above two bits of an ordinary Minc'd Pye. But Dr. <hi>Mariot</hi> a notable Caſuiſt, in theſe diſputes, and a Man of a ſharp Stomack, is of opinion that a man ought to Swallow them whole. And there<g ref="char:EOLhyphen"/>fore he was the firſt in the world that cauſed them to be made after the faſhion of Boats that they might ſwim down his gullet the eaſier: &amp; indeed he was a mighty enemy to four cornerd pies, for he ſaid they were uſed to ſtick in his throat. How theſe perſons mentioned in my text did eat their Pyes I cannot tell, or whether they did put any Sack in them or no: yet tis very probable; for Wine maketh the heart of man glad; and it is ſaid in my text when they that had eaten <hi>their Plum pies they rejoyced exceedingly.</hi> Now my belo<g ref="char:EOLhyphen"/>ved to tell ye how they rejoyced will be a mat<g ref="char:EOLhyphen"/>ter of great difficulty. Onely this we can ſay in General, that their hearts leapt within them, that is to ſay their hearts danc'd Sarrabands and Co<g ref="char:EOLhyphen"/>rants for joy that they had eaten their plum pyes. Now there are ſeveral ways to expreſs a mans joy. Some men weep for joy, whether theſe people wept for joy I cannot tell, and becauſe my text doth not ſpeak at all of it, I would not have you to be<g ref="char:EOLhyphen"/>lieve any man that tells you ſo: for that the world is now very full of <hi>Seducers</hi> and <hi>falſe teachers.</hi> But Secondly ſome men <hi>dye for joy.</hi> Truely I do not believe that theſe men did ſo. Nay I will ad<g ref="char:EOLhyphen"/>venture for once though the words of my text
+<pb n="11" facs="tcp:97863:7"/>ſpeak nothing as to the point, to aſſure you out of my text that they did not dye. Not that it is a<g ref="char:EOLhyphen"/>ny thing to me, for I confeſs had they bin hang'd I had not car'd a ſtraw. But onely to ſhew you that a man is not always bound to keep cloſe to his text. Thus <hi>Don Lewis de Haro's</hi> Uncle dy'd Embracing his Miſtriſs, for joy that he did Em<g ref="char:EOLhyphen"/>brace her; but was not he a Fool? yes truly: Why? Why? becauſe he dy'd before he could en<g ref="char:EOLhyphen"/>joy that thing which cauſed that joy within him.</p>
+            <p>But the joy which proceedeth from the Eat<g ref="char:EOLhyphen"/>ing of Plum pyes is worth a thouſand of theſe joys, for it cauſeth men to rejoyce exceedingly. But you'l ſay when doth a Man <hi>rejoyce exceeding<g ref="char:EOLhyphen"/>ly?</hi> Why when a Man or a Woman laughs till they Piſs again, then may they be ſaid to <hi>rejoyce exceedingly;</hi> when Men otherwiſe Grave and Re<g ref="char:EOLhyphen"/>ſerved, ſit after dinner, opening their hearts and telling the wanton ſtories of their Youth, then are they ſaid to <hi>rejoyce exceedingly.</hi> When a Ci<g ref="char:EOLhyphen"/>tizen Kiſſes his Wife before all the Company, after Dinner, then is he ſaid to <hi>rejoyce exceedingly;</hi> but when ſhe Kiſſes her Servant in private then is ſhe ſaid to rejoyce exceedingly. And thus you ſee how it is the Duty of every one that Eates Plum pye to <hi>rejoyce exceedingly.</hi>
+            </p>
+            <p>Is it ſo then that every Man who Eats <hi>Plum pye ought to rejoyce exceedingly.</hi> Then let us Eat Chriſtmas or Plum pye and rejoyce, Drink, Eat, and be Merry, Play at Cards and win Money, for that the dayes of the Year, are now like the dayes of Man, ſhort and ſoon Vaniſhing.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:97863:8"/>
+            <p>
+               <figure>
+                  <figDesc>printer's or publisher's device</figDesc>
+                  <head>ICH DIEN</head>
+               </figure>
+            </p>
+            <pb facs="tcp:97863:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
